@@ -1,0 +1,490 @@
+                        Machine Learning Algoritms
+                        ==========================
+
+
+Supervised learning:
+====================
+AODE
+Artificial neural network
+	Backpropagation
+	Autoencoders
+	Hopfield networks
+	Boltzmann machines
+	Restricted Boltzmann Machines
+	Spiking neural networks
+Bayesian statistics
+	Naive Bayes classifier
+	Bayesian network
+	Bayesian knowledge base
+Case-based reasoning
+Decision trees
+Inductive logic programming
+Gaussian process regression
+Gene expression programming
+Group method of data handling (GMDH)
+Learning Automata
+Learning Vector Quantization
+Logistic Model Tree
+Minimum message length (decision trees, decision graphs, etc.)
+Lazy learning
+Instance-based learning
+	Nearest Neighbor Algorithm
+	Analogical modeling
+Probably approximately correct learning (PAC) learning
+Ripple down rules, a knowledge acquisition methodology
+Symbolic machine learning algorithms
+Subsymbolic machine learning algorithms
+Support vector machines
+Random Forests
+Ensembles of classifiers
+	Bootstrap aggregating (bagging)
+	Boosting (meta-algorithm)
+Ordinal classification
+Regression analysis
+Information fuzzy networks (IFN)
+Conditional Random Field
+
+Weka:
+Self-Organizing Map (SOM)
+Learning Vector Quantization (LVQ)
+Feed-Forward Artificial Neural Network (FF-ANN)
+Artificial Immune Recognition System (AIRS)
+Clonal Selection Algorithm (CLONALG)
+
+
+Statistical classification
+==========================
+ANOVA
+Linear classifiers
+	Fisher's linear discriminant
+	Logistic regression
+	Multinomial logistic regression
+	Naive Bayes classifier
+	Perceptron
+	Support vector machines
+Quadratic classifiers
+k-nearest neighbor
+Boosting
+Decision trees
+	C4.5
+	Random forests
+Bayesian networks
+Hidden Markov models
+
+Unsupervised learning
+=====================
+Expectation-maximization algorithm
+Vector Quantization
+Generative topographic map
+Information bottleneck method
+
+Artificial neural network
+=========================
+Perceptron
+Self-organizing map
+Radial basis function network
+
+Association rule learning
+=========================
+Apriori algorithm
+Eclat algorithm
+FP-growth algorithm
+
+Hierarchical clustering
+=======================
+Single-linkage clustering
+Conceptual clustering
+
+Cluster analysis
+================
+K-means algorithm
+Fuzzy clustering
+DBSCAN
+OPTICS algorithm
+
+Outlier Detection
+=================
+Local Outlier Factor
+
+Reinforcement learning
+======================
+Temporal difference learning
+Q-learning
+Learning Automata
+Monte Carlo Method
+SARSA
+
+Deep learning
+=============
+Deep belief networks
+Deep Boltzmann machines
+Deep Convolutional neural networks
+Deep Recurrent neural networks
+Hierarchical temporal memory
+
+Others
+======
+Data Pre-processing
+
+
+Mahout:
+======
+Collaborative Filtering
+=======================
+User-Based Collaborative Filtering - single machine
+Item-Based Collaborative Filtering - single machine / MapReduce
+Matrix Factorization with Alternating Least Squares - single machine / MapReduce
+Matrix Factorization with Alternating Least Squares on Implicit Feedback- single machine / MapReduce
+Weighted Matrix Factorization, SVD++, Parallel SGD - single machine
+
+Classification
+==============
+Logistic Regression - trained via SGD - single machine
+Naive Bayes/ Complementary Naive Bayes - MapReduce
+Random Forest - MapReduce
+Hidden Markov Models - single machine
+Multilayer Perceptron - single machine
+
+Clustering
+==========
+Canopy Clustering - single machine / MapReduce (deprecated, will be removed once Streaming k-Means is stable enough)
+k-Means Clustering - single machine / MapReduce
+Fuzzy k-Means - single machine / MapReduce
+Streaming k-Means - single machine / MapReduce
+Spectral Clustering - MapReduce
+
+Dimensionality Reduction
+========================
+Singular Value Decomposition - single machine
+Lanczos Algorithm - single machine / MapReduce
+Stochastic SVD - single machine / MapReduce / Spark
+Principal Component Analysis (via Stochastic SVD)- single machine / MapReduce
+
+Topic Models
+============
+Latent Dirichlet Allocation - single machine / MapReduce
+
+Miscellaneous
+=============
+Frequent Pattern Mining - MapReduce
+RowSimilarityJob - compute pairwise similarities between the rows of a matrix - MapReduce
+ConcatMatrices - combine 2 matrices or vectors into a single matrix - MapReduce
+Collocations - find co-locations of tokens in text - MapReduce
+
+Basic Statistics
+================
+ANOVA / MANOVA
+Association Rules
+Boosting Trees
+Canonical Analysis
+CHAID Analysis
+C & R Trees
+Classification Trees
+Cluster Analysis
+Correspondence Analysis
+Data Mining Techniques
+Discriminant Analysis
+Distribution Fitting
+Experimental Design
+Factor Analysis
+General Discrim. Analysis
+General Linear Models
+Generalized Additive Mod.
+Generalized Linear Mod.
+General Regression Mod.
+Graphical Techniques
+Ind.Components Analysis
+Linear Regression
+Log-Linear Analysis
+MARSplines
+Machine Learning
+Multidimensional Scaling
+Neural Networks
+Nonlinear Estimation
+Nonparametric Statistics
+Partial Least Squares
+Power Analysis
+Process Analysis
+Quality Control Charts
+Reliability / Item Analysis
+SEPATH (Structural eq.)
+Survival Analysis
+Text Mining
+Time Series / Forecasting
+Variance Components
+Statistical Advisor
+Distribution Tables
+References Cited
+
+
+Almeida–Pineda recurrent backpropagation
+Backpropagation
+Bootstrap aggregating
+CN2 algorithm
+Constructing skill trees
+Dehaene–Changeux model
+Diffusion map
+Dominance-based rough set approach
+Dynamic time warping
+Error-driven learning
+Evolutionary multimodal optimization
+Expectation–maximization algorithm
+FastICA
+Forward–backward algorithm
+GeneRec
+G cont.
+Genetic Algorithm for Rule Set Production
+Growing self-organizing map
+HEXQ
+IDistance
+K-nearest neighbors algorithm
+Kernel principal component analysis
+Leabra
+Linde–Buzo–Gray algorithm
+Local outlier factor
+LogitBoost
+Manifold alignment
+Minimum redundancy feature selection
+Non-negative matrix factorization
+Online machine learning
+Prefrontal Cortex Basal Ganglia Working Memory
+PVLV
+Q-learning
+Quadratic unconstrained binary optimization
+Query level feature
+Quickprop
+Radial basis function network
+Randomized weighted majority algorithm
+Reinforcement learning
+Rprop
+SARSA
+Skill chaining
+Sparse PCA
+Stochastic gradient descent
+T-distributed stochastic neighbor embedding
+Temporal difference learning
+Wake-sleep algorithm
+Weighted Majority Algorithm
+
+C4.5
+k-Means
+SVM
+Apriori
+EM
+PageRank
+AdaBoost
+kNN
+Naive Bayes
+CART
+
+Decision Trees/Rules
+Regression
+Clustering
+Statistics (descriptive)
+Visualization
+Time series/Sequence analysis
+Support Vector (SVM)
+Association rules
+Ensemble methods
+Text Mining
+Neural Nets
+Boosting
+Bayesian
+Bagging
+Factor Analysis
+Anomaly/Deviation detection
+Social Network Analysis
+Survival Analysis
+Genetic algorithms
+Uplift modeling
+
+Matrix factorization (SVD)
+k-means
+Naive Bayes
+Dirichlet Process Clustering
+Matrix Factorization
+Frequent Pattern Matching
+LDA
+Expectation Maximization
+SVM
+Decision Trees
+Logistics Regression
+Random Forest
+
+
+
+A Tour of Machine Learning Algorithms
+-------------------------------------
+
+After we understand the type of machine learning problem we are working with, we can think about the type of data to collect and the types 
+of machine learning algorithms we can try. In this post we take a tour of the most popular machine learning algorithms. 
+It is useful to tour the main algorithms to get a general idea of what methods are available.
+There are so many algorithms available. The difficulty is that there are classes of method and there are extensions to methods and it quickly
+becomes very difficult to determine what constitutes a canonical algorithm. In this post I want to give you two ways to think about and 
+categorize the algorithms you may come across in the field.
+
+The first is a grouping of algorithms by the learning style. The second is a grouping of algorithms by similarity in form or function 
+(like grouping similar animals together). Both approaches are useful.
+
+Learning Style
+--------------
+There are different ways an algorithm can model a problem based on its interaction with the experience or environment or whatever
+we want to call the input data. It is popular in machine learning and artificial intelligence text books to first consider the learning styles
+that an algorithm can adopt. There are only a few main learning styles or learning models that an algorithm can have and we’ll go through them
+here with a few examples of algorithms and problem types that they suit. This taxonomy or way of organizing machine learning algorithms
+is useful because it forces you to think about the the roles of the input data and the model preparation process and select one that 
+is the most appropriate for your problem in order to get the best result.
+
+Supervised Learning: Input data is called training data and has a known label or result such as spam/not-spam or a stock price at a time. 
+A model is prepared through a training process where it is required to make predictions and is corrected when those predictions are wrong. 
+The training process continues until the model achieves a desired level of accuracy on the training data. Example problems are classification 
+and regression. Example algorithms are Logistic Regression and the Back Propagation Neural Network.
+Unsupervised Learning: Input data is not labelled and does not have a known result. A model is prepared by deducing structures present in the
+input data. Example problems are association rule learning and clustering. Example algorithms are the Apriori algorithm and k-means.
+Semi-Supervised Learning: Input data is a mixture of labelled and unlabelled examples. There is a desired prediction problem but the model 
+must learn the structures to organize the data as well as make predictions. Example problems are classification and regression. 
+Example algorithms are extensions to other flexible methods that make assumptions about how to model the unlabelled data.
+Reinforcement Learning: Input data is provided as stimulus to a model from an environment to which the model must respond and react. 
+Feedback is provided not from of a teaching process as in supervised learning, but as punishments and rewards in the environment. 
+Example problems are systems and robot control. Example algorithms are Q-learning and Temporal difference learning.
+When crunching data to model business decisions, you are most typically using supervised and unsupervised learning methods. 
+A hot topic at the moment is semi-supervised learning methods in areas such as image classification where there are large 
+datasets with very few labelled examples. Reinforcement learning is more likely to turn up in robotic control and other control systems
+development.
+
+
+Algorithm Similarity
+--------------------
+Algorithms are universally presented in groups by similarity in terms of function or form. For example, tree based methods, and neural network
+inspired methods. This is a useful grouping method, but it is not perfect. There are still algorithms that could just as easily fit into multiple 
+categories like Learning Vector Quantization that is both a neural network inspired method and an instance-based method. 
+There are also categories that have the same name that describes the problem and the class of algorithm such as Regression and Clustering. 
+As such, you will see variations on the way algorithms are grouped depending on the source you check. Like machine learning algorithms 
+themselves, there is no perfect model, just a good enough model.
+
+In this section I list many of the popular machine leaning algorithms grouped the way I think is the most intuitive. 
+It is not exhaustive in either the groups or the algorithms, but I think it is representative and will be useful to you to get an 
+idea of the lay of the land. If you know of an algorithm or a group of algorithms not listed, put it in the comments and share it with us. 
+Let’s dive in.
+
+Regression
+----------
+Regression is concerned with modelling the relationship between variables that is iteratively refined using a measure of error in the 
+predictions made by the model. Regression methods are a work horse of statistics and have been cooped into statistical machine learning. 
+This may be confusing because we can use regression to refer to the class of problem and the class of algorithm. Really, 
+regression is a process. Some example algorithms are:
+
+Ordinary Least Squares
+Logistic Regression
+Stepwise Regression
+Multivariate Adaptive Regression Splines (MARS)
+Locally Estimated Scatterplot Smoothing (LOESS)
+Instance-based Methods
+
+Instance based learning model a decision problem with instances or examples of training data that are deemed important or required to 
+the model. Such methods typically build up a database of example data and compare new data to the database using a similarity measure
+in order to find the best match and make a prediction. For this reason, instance-based methods are also called winner-take all methods
+and memory-based learning. Focus is put on representation of the stored instances and similarity measures used between instances.
+
+k-Nearest Neighbour (kNN)
+Learning Vector Quantization (LVQ)
+Self-Organizing Map (SOM)
+Regularization Methods
+
+An extension made to another method (typically regression methods) that penalizes models based on their complexity, favoring simpler models 
+that are also better at generalizing. I have listed Regularization methods here because they are popular, powerful and generally simple 
+modifications made to other methods.
+
+Ridge Regression
+Least Absolute Shrinkage and Selection Operator (LASSO)
+Elastic Net
+Decision Tree Learning
+
+Decision tree methods construct a model of decisions made based on actual values of attributes in the data. Decisions fork in tree structures
+until a prediction decision is made for a given record. Decision trees are trained on data for classification and regression problems.
+
+Classification and Regression Tree (CART)
+Iterative Dichotomiser 3 (ID3)
+C4.5
+Chi-squared Automatic Interaction Detection (CHAID)
+Decision Stump
+Random Forest
+Multivariate Adaptive Regression Splines (MARS)
+Gradient Boosting Machines (GBM)
+Bayesian
+
+Bayesian methods are those that are explicitly apply Bayes’ Theorem for problems such as classification and regression.
+
+Naive Bayes
+Averaged One-Dependence Estimators (AODE)
+Bayesian Belief Network (BBN)
+Kernel Methods
+
+Kernel Methods are best known for the popular method Support Vector Machines which is really a constellation of methods in and of itself. 
+Kernel Methods are concerned with mapping input data into a higher dimensional vector space where some classification or regression problems
+are easier to model.
+
+Support Vector Machines (SVM)
+Radial Basis Function (RBF)
+Linear Discriminate Analysis (LDA)
+Clustering Methods
+
+Clustering, like regression describes the class of problem and the class of methods. Clustering methods are typically organized by the 
+modelling approaches such as centroid-based and hierarchal. All methods are concerned with using the inherent structures in the data to 
+best organize the data into groups of maximum commonality.
+
+k-Means
+Expectation Maximisation (EM)
+Association Rule Learning
+
+Association rule learning are methods that extract rules that best explain observed relationships between variables in data. 
+These rules can discover important and commercially useful associations in large multidimensional datasets that can be exploited by 
+an organisation.
+
+Apriori algorithm
+Eclat algorithm
+Artificial Neural Networks
+
+Artificial Neural Networks are models that are inspired by the structure and/or function of biological neural networks. 
+They are a class of pattern matching that are commonly used for regression and classification problems but are really an enormous subfield 
+comprised of hundreds of algorithms and variations for all manner of problem types. Some of the classically popular methods 
+include (I have separated Deep Learning from this category):
+
+Perceptron
+Back-Propagation
+Hopfield Network
+Self-Organizing Map (SOM)
+Learning Vector Quantization (LVQ)
+Deep Learning
+
+Deep Learning methods are a modern update to Artificial Neural Networks that exploit abundant cheap computation. The are concerned with building
+much larger and more complex neural networks, and as commented above, many methods are concerned with semi-supervised learning problems where
+large datasets contain very little labelled data.
+
+Restricted Boltzmann Machine (RBM)
+Deep Belief Networks (DBN)
+Convolutional Network
+Stacked Auto-encoders
+Dimensionality Reduction
+
+Like clustering methods, Dimensionality Reduction seek and exploit the inherent structure in the data, but in this case in an unsupervised 
+manner or order to summarise or describe data using less information. This can be useful to visualize dimensional data or to simplify data 
+which can then be used in a supervized learning method.
+
+Principal Component Analysis (PCA)
+Partial Least Squares Regression (PLS)
+Sammon Mapping
+Multidimensional Scaling (MDS)
+Projection Pursuit
+Ensemble Methods
+
+Ensemble methods are models composed of multiple weaker models that are independently trained and whose predictions are combined in some way
+to make the overall prediction. Much effort is put into what types of weak learners to combine and the ways in which to combine them. 
+This is a very powerful class of techniques and as such is very popular.
+
+Boosting
+Bootstrapped Aggregation (Bagging)
+AdaBoost
+Stacked Generalization (blending)
+Gradient Boosting Machines (GBM)
+Random Forest
